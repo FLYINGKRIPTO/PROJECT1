@@ -118,6 +118,7 @@
         android:layout_marginLeft="55dp"
         android:layout_marginStart="55dp" />
     <TextView
+        android:id="@+id/guitar"
         android:layout_width="80dp"
         android:layout_height="30dp"
         android:text="@string/guitar"
@@ -135,6 +136,7 @@
         android:layout_marginLeft="220dp"
         android:layout_marginStart="220dp" />
     <TextView
+        android:id="@+id/keyboard"
         android:layout_width="80dp"
         android:layout_height="30dp"
         android:text="@string/keyboard"
@@ -152,6 +154,7 @@
         android:layout_marginLeft="220dp"
         android:layout_marginStart="220dp" />
     <TextView
+        android:id="@+id/drums"
         android:layout_width="80dp"
         android:layout_height="30dp"
         android:text="@string/drums"
@@ -169,6 +172,7 @@
         android:layout_marginLeft="55dp"
         android:layout_marginStart="55dp" />
     <TextView
+        android:id="@+id/harmonium"
         android:layout_width="wrap_content"
         android:layout_height="30dp"
         android:text="@string/harmonium"
@@ -186,6 +190,7 @@
         android:layout_marginLeft="55dp"
         android:layout_marginStart="55dp" />
     <TextView
+        android:id="@+id/tabla"
         android:layout_width="wrap_content"
         android:layout_height="30dp"
         android:text="@string/tabla"
@@ -203,6 +208,7 @@
         android:layout_marginLeft="220dp"
         android:layout_marginStart="220dp" />
     <TextView
+        android:id="@+id/flute"
         android:layout_width="wrap_content"
         android:layout_height="30dp"
         android:text="@string/flute"
