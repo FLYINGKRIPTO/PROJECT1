@@ -13,7 +13,7 @@
 * Hours of operation
 
 ###Portrait Mode
-<img src="">
+<img src="https://user-images.githubusercontent.com/34384226/40989481-8c2ffb80-690b-11e8-87e7-933831ede1be.png">
 
 ###Landscape mode
-<img src="https://imgur.com/a/Oei1PKZ">
+<img src="https://user-images.githubusercontent.com/34384226/40989483-8c76ce20-690b-11e8-8f46-877aa3cd2fde.png">
