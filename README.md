@@ -13,7 +13,7 @@
 * Hours of operation
 
 ###Portrait Mode
-<img src="C:\Users\DELL\Downloads\Project 1 ( Phase 2) Single Screen app">
+<img src="">
 
 ###Landscape mode
 <img src="https://imgur.com/a/Oei1PKZ">
