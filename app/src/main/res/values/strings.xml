@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project 1 ( GICS Phase - 2 )</string>
+    <string name="address1">GB-35, 36, BlocK.-C, Mansarover Complex, Habibganj Rd, </string>
+   <string name="address2">Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh</string>
+    <string name="contact">Contact us - 0755 425 9749</string>
+    <string name="music_gallery">Music Gallery</string>
+    <string name="flute">Flute</string>
+    <string name="tabla">Tabla</string>
+    <string name="harmonium">Harmonium</string>
+    <string name="drums">Drums</string>
+    <string name="keyboard">keyboard</string>
+    <string name="guitar">Guitar</string>
+</resources>
